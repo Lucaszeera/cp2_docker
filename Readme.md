@@ -3,7 +3,7 @@
 
 ### Arquitetura do projeto: 
 
-![Imagem da arquitetura](https://github.com/Lucaszeera/cp2_docker/blob/main/Arquitetura.jpeg?raw=true)
+![Imagem da arquitetura](https://github.com/Lucaszeera/cp2_docker/blob/main/img/_arquitetura.jpeg?raw=true)
 
 ## **Primeiramente você deve ter em sua máquina**
 
