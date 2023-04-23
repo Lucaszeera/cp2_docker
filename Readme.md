@@ -7,10 +7,10 @@
 
 ## **Primeiramente você deve ter em sua máquina**
 
-* Python 3.9
-* Flask 2.0.2
-* Docker
-* MariaDB
+* Python 3.9    https://www.python.org/downloads/release/python-390/
+* Flask 2.0.2   https://pypi.org/project/Flask/
+* Docker        https://www.docker.com/products/docker-desktop/
+* MariaDB       https://mariadb.org/download/?t=mariadb&p=mariadb&r=11.1.0&os=windows&cpu=x86_64&pkg=msi&m=fder
 
 ### após isso, segue os passos para clonagem e execução
 1 - Clique no botão verde "< > Code" e copie a url de clonagem.
