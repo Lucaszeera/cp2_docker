@@ -1,17 +1,21 @@
 # Fichas de pacientes
 <br>
 Nosso projeto foi feito para cadastrar a ficha do paciente através de uma API, contendo informações como:
-Nome do paciente
-Nome da doença
-Data de internação
-Essas informações podem ser criadas, alteradas, excluídas e exibidas.
-Tecnologias:
-Python 3.9
-Flask 2.0.2
-Docker
-MariaDB
 
-### Arquitetura do projeto: 
+- Nome do paciente
+- Nome da doença
+- Data de internação
+
+Essas informações podem ser criadas, alteradas, excluídas e exibidas.
+
+Tecnologias:
+
+- Python 3.9
+- Flask 2.0.2
+- Docker
+- MariaDB
+
+## Arquitetura do projeto: 
 
 ![Imagem da arquitetura](https://github.com/Lucaszeera/cp2_docker/blob/main/img/_arquitetura.jpeg?raw=true)
 
