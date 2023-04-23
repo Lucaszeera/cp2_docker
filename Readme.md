@@ -9,7 +9,8 @@
 
 * Python 3.9
 * Flask 2.0.2
-* Docker 1.2
+* Docker
+* MariaDB
 
 ### após isso, segue os passos para clonagem e execução
 1 - Clique no botão verde "< > Code" e copie a url de clonagem.
